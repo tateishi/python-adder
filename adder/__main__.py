@@ -1,7 +1,7 @@
 # -*- mode: python; coding: utf-8 -*-
 
 
-from adder import add
+from . import add
 
 
 def main():
